@@ -7,12 +7,12 @@ This project is an assignment from my class
 #### Kelas : TI.21.A2
 #### MatKul : Pemrograman Web 2
 
-### Menambah fungsi Pagination
+### Menambah fungsi Pagination dan SearchForm
 ![Gambar](img/1.png)
 
-### Menambah Search Form
+### Test Pagination
 ![Gambar](img/2.png)
 
 
-### Percobaan
+### Test SearchForm
 ![Gambar](img/3.png)
